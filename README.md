@@ -33,7 +33,7 @@ Minimal C++ math and game hacking utilities — quick, dirty, and not production
 | `pi`        | 3.141592653589793   | Full precision       |
 | `tau_short` | 6.28                | approximation        |
 | `tau`      | 6.283185307179586   | Full precision       |
-| `euler`     | 2.718281828         | Euler’s number (e)   |
+| `euler`     | 2.718281828         | Euler’s number      |
 | `phi`       | 1.618033988749895   | Golden ratio         |
 | `sqrt2`     | 1.414213562373095   | Square root of 2     |
 | `sqrt3`     | 1.732050807568877   | Square root of 3     |
@@ -64,7 +64,7 @@ Minimal C++ math and game hacking utilities — quick, dirty, and not production
 | `rad(deg)`         | Converts degrees to radians |
 | `deg(rad)`         | Converts radians to degrees |
 | `clamp(a, b, c)`   | Returns `c` if `a < b`, else `a`   |
-| `lerp(a, b, c)`    | Linear interpolation between `a` and `b` by `t` |
+| `lerp(a, b, c)`    | Linear interpolation between `a` and `b` by `c` |
 
 ---
 
